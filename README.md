@@ -1,1 +1,1 @@
-# 13Badimi-Prabodh-23-27-Sem1-C
+# Sem1-C-Programming
